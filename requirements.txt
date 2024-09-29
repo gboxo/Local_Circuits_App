@@ -1,8 +1,6 @@
 streamlit
 plotly
-matplotlib
 pandas
-PIL
 seaborn
 json
 torch
