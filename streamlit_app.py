@@ -10,13 +10,9 @@ import seaborn as sns
 import json
 import torch
 import numpy as np
-import torch.nn as nn
-from jaxtyping import Int, Float 
-from datasets import load_dataset
 from torch.utils.data import DataLoader, dataset
 from tqdm import tqdm
 from collections import defaultdict
-from transformer_lens.ActivationCache import ActivationCache
 import base64
 
 
